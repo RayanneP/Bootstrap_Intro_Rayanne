@@ -50,3 +50,4 @@ document.addEventListener('DOMContentLoaded', function() {
         progressBar.classList.toggle('progress-bar-animated');
     });
 });
+
